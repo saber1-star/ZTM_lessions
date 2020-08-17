@@ -1,0 +1,22 @@
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid blue;
+    cursor: pointer;
+}
+p {
+    color: #c26a45;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-style: italic;
+
+}
+body {
+    background-image: url(beach-sunset.jpeg) ;
+    background-size: cover;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
